@@ -2,28 +2,44 @@
 
 ---
 
-### Category Name 1 
+### Physics-based simulations
 
-[Project 1 Title](/sample_page)
+[Reinforcement learning of ancient gaits](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Dynamical particle interactions on 2D manifolds](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Pheromone-driven cooperation in ant collectives](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Robotics
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Data-efficient machine learning for automated robot design](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Artificial pheromone simulator](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Robot motion primitives](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Other
+
+[Spectral methods Python module](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Neural Style Transfer](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
