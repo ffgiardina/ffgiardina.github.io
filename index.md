@@ -27,8 +27,8 @@
 <img src="images/rants.gif?raw=true"/>
 
 ---
-[Robot motion primitives](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Robot motion primitives from algebraic sparsity](https://arxiv.org/abs/2202.03150)
+<img src="images/motion_primitives.png?raw=true"/>
 
 ---
 
