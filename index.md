@@ -8,7 +8,7 @@
 <img src="images/RL.png?raw=true"/>
 
 ---
-[Pheromone-driven cooperation in ant collectives](http://example.com/)
+[Pheromone-driven cooperation in ant collectives](https://www.biorxiv.org/content/10.1101/2021.07.12.451633v1.abstract)
 <img src="images/rants.png?raw=true"/>
 
 ---
@@ -19,8 +19,8 @@
 
 ### Robotics
 
-[Data-efficient machine learning for automated robot design](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data-efficient machine learning for automated robot design](https://ieeexplore.ieee.org/abstract/document/8263599)
+<img src="images/bayesian.png?raw=true"/>
 
 ---
 [Artificial pheromone simulator](/sample_page)
