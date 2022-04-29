@@ -4,8 +4,8 @@
 
 ### Physics-based simulations
 
-[Reinforcement learning of ancient gaits](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Reinforcement learning of ancient gaits](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2020.0701)
+<img src="images/RL.png?raw=true"/>
 
 ---
 [Dynamical particle interactions on 2D manifolds](/pdf/sample_presentation.pdf)
