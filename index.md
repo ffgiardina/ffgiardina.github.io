@@ -34,12 +34,12 @@
 
 ### Other
 
-[Spectral methods Python module](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Spectral methods Python module](https://github.com/ffgiardina/chebyspectral)
+<img src="images/spectral.png?raw=true"/>
 
 ---
-[Neural Style Transfer](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Neural Style Transfer](https://github.com/ffgiardina/NST)
+<img src="images/nst.png?raw=true"/>
 
 ---
 
