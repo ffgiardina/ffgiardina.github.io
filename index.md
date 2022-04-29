@@ -12,19 +12,19 @@
 <img src="images/rants.png?raw=true"/>
 
 ---
-[Dynamical particle interactions on 2D manifolds](https://github.com/ffgiardina/spheroidal-dynamics)
+[Dynamical interactions of polar particles on 2D manifolds](https://github.com/ffgiardina/spheroidal-dynamics)
 <img src="images/spheroid.gif?raw=true"/>
 
 ---
 
 ### Robotics
 
-[Data-efficient machine learning for automated robot design](https://ieeexplore.ieee.org/abstract/document/8263599)
-<img src="images/bayesian.png?raw=true"/>
+[Cooperative tunneling with phototactic robots](https://www.biorxiv.org/content/10.1101/2021.07.12.451633v1.abstract)
+<img src="images/rants.gif?raw=true"/>
 
 ---
-[Robot framework for behavioral investigation of pheromone-driven cooperation](https://www.biorxiv.org/content/10.1101/2021.07.12.451633v1.abstract)
-<img src="images/rants.gif?raw=true"/>
+[Data-efficient machine learning for automated robot optimization](https://ieeexplore.ieee.org/abstract/document/8263599)
+<img src="images/bayesian.png?raw=true"/>
 
 ---
 [Robot motion primitives from algebraic sparsity](https://arxiv.org/abs/2202.03150)
@@ -34,11 +34,11 @@
 
 ### Other
 
-[Spectral methods Python module](https://github.com/ffgiardina/chebyspectral)
+[A Python module for Chebyshev spectral methods](https://github.com/ffgiardina/chebyspectral)
 <img src="images/spectral.png?raw=true"/>
 
 ---
-[Neural Style Transfer](https://github.com/ffgiardina/NST)
+[Neural style transfer Jupyter Notebook](https://github.com/ffgiardina/NST)
 <img src="images/nst.png?raw=true"/>
 
 ---
