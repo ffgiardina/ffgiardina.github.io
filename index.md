@@ -8,8 +8,8 @@
 <img src="images/RL.png?raw=true"/>
 
 ---
-[Dynamical particle interactions on 2D manifolds](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dynamical particle interactions on 2D manifolds](https://github.com/ffgiardina/spheroidal-dynamics)
+<img src="images/spheroid.gif?raw=true"/>
 
 ---
 [Pheromone-driven cooperation in ant collectives](http://example.com/)
