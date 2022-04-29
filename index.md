@@ -23,8 +23,8 @@
 <img src="images/bayesian.png?raw=true"/>
 
 ---
-[Artificial pheromone simulator](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Robot framework for behavioral investigation of pheromone-driven cooperation](https://www.biorxiv.org/content/10.1101/2021.07.12.451633v1.abstract)
+<img src="images/rants.gif?raw=true"/>
 
 ---
 [Robot motion primitives](/sample_page)
