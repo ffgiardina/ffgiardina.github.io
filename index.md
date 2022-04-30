@@ -27,7 +27,7 @@
 <img src="images/bayesian.png?raw=true"/>
 
 ---
-[Robot motion primitives from algebraic sparsity](https://arxiv.org/abs/2202.03150)
+[The sparse nullspace decomposition algorithm for modular motion primitives](https://arxiv.org/abs/2202.03150)
 <img src="images/motion_primitives.png?raw=true"/>
 
 ---
