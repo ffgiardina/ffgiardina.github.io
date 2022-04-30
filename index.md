@@ -17,7 +17,7 @@
 
 ---
 
-### Robotics
+### Robotics and Algorithms
 
 [Cooperative tunneling with phototactic robots](https://www.biorxiv.org/content/10.1101/2021.07.12.451633v1.abstract)
 <img src="images/rants.gif?raw=true"/>
