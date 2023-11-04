@@ -8,7 +8,7 @@
 <img src="images/RL.png?raw=true"/>
 
 ---
-[Pheromone-driven cooperation in ant collectives](https://www.biorxiv.org/content/10.1101/2021.07.12.451633v1.abstract)
+[Pheromone-driven cooperation in ant collectives](https://elifesciences.org/articles/79638)
 <img src="images/rants.png?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Robotics and Algorithms
 
-[Cooperative tunneling with phototactic robots](https://www.biorxiv.org/content/10.1101/2021.07.12.451633v1.abstract)
+[Cooperative construction with phototactic robots](https://arxiv.org/abs/2208.12373)
 <img src="images/rants.gif?raw=true"/>
 
 ---
@@ -27,7 +27,7 @@
 <img src="images/bayesian.png?raw=true"/>
 
 ---
-[The sparse nullspace decomposition algorithm for modular motion primitives](https://arxiv.org/abs/2202.03150)
+[The sparse nullspace decomposition algorithm for modular motion primitives](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2022.0082)
 <img src="images/motion_primitives.png?raw=true"/>
 
 ---
