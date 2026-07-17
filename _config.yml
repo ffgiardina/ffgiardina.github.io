@@ -1,13 +1,5 @@
 title: Fabio Giardina # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  10+ years spanning academic research and industry across robotics, quantitative finance, and software engineering.
-  <br><br>
-  Postdoctoral research in applied mathematics at Harvard University, PhD in Robotics from the University of Cambridge, Master's and Bachelor's degree from ETH Zürich.
-  <br><br>
-  Currently at Hexagon Robotics as a Senior Software Engineer, working on simulation and reinforcement learning for robot learning.
-  <br><br>
-  <a href="https://www.linkedin.com/in/fabio-giardina-46801319b/">View My LinkedIn Profile</a>
-  
+description: 10+ years spanning academic research and industry across robotics, quantitative finance, and software engineering.
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

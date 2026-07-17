@@ -1,5 +1,11 @@
 ## Portfolio
 
+Postdoctoral research in applied mathematics at Harvard University, PhD in Robotics from the University of Cambridge, Master's and Bachelor's degree from ETH Zürich.
+
+Currently at Hexagon Robotics as a Senior Software Engineer, working on simulation software for robotics.
+
+[View My LinkedIn Profile](https://www.linkedin.com/in/fabio-giardina-46801319b/)
+
 ---
 
 ### Physics-based simulations
@@ -34,12 +40,12 @@
 
 ### Other
 
-[A Python module for Chebyshev spectral methods](https://github.com/ffgiardina/chebyspectral)
-<img src="images/spectral.png?raw=true"/>
-
----
 [shrew: exact arithmetic on random variables (pip install pyshrew)](https://github.com/ffgiardina/shrew)
 <img src="images/shrew_gp.png?raw=true"/>
+
+---
+[A Python module for Chebyshev spectral methods](https://github.com/ffgiardina/chebyspectral)
+<img src="images/spectral.png?raw=true"/>
 
 ---
 
