@@ -38,8 +38,8 @@
 <img src="images/spectral.png?raw=true"/>
 
 ---
-[Neural style transfer Jupyter Notebook](https://github.com/ffgiardina/NST)
-<img src="images/nst.png?raw=true"/>
+[shrew: exact arithmetic on random variables (pip install pyshrew)](https://github.com/ffgiardina/shrew)
+<img src="images/shrew_gp.png?raw=true"/>
 
 ---
 
