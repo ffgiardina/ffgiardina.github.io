@@ -1,4 +1,4 @@
-## Portfolio
+## About
 
 Postdoctoral research in applied mathematics at Harvard University, PhD in Robotics from the University of Cambridge, Master's and Bachelor's degree from ETH Zürich.
 
@@ -7,6 +7,8 @@ Currently at Hexagon Robotics as a Senior Software Engineer, working on simulati
 [View My LinkedIn Profile](https://www.linkedin.com/in/fabio-giardina-46801319b/) · [View My Google Scholar Profile](https://scholar.google.com/citations?user=fAbi61MAAAAJ&hl=en)
 
 ---
+
+## Portfolio
 
 ### Physics-based simulations
 
