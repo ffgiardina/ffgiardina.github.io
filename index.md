@@ -28,6 +28,8 @@ Related: **Giardina F**, Ganga Prasath S, Mahadevan L. *[Robotectonics: Emergent
 [Dynamical interactions of polar particles on 2D manifolds](https://github.com/ffgiardina/spheroidal-dynamics)
 <img src="images/spheroid.gif?raw=true" alt="Polar particles interacting on a spheroid"/>
 
+<sub>Yodh JS, **Giardina F**, Gokhale S, Mahadevan L. *[Zonal flows and reversals of cortically confined active suspensions](https://arxiv.org/abs/2305.04708).* arXiv:2305.04708, 2023.</sub>
+
 ---
 
 ### Robotics and Algorithms
