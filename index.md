@@ -51,7 +51,7 @@ Related: **Giardina F**, Ganga Prasath S, Mahadevan L. *[Robotectonics: Emergent
 
 ### Open-source software
 
-[Shrew: exact arithmetic on random variables (pip install pyshrew)](https://github.com/ffgiardina/shrew)
+[Shrew: arithmetic on random variables (pip install pyshrew)](https://github.com/ffgiardina/shrew)
 <img src="images/shrew_gp.png?raw=true" alt="Gaussian process regression with Shrew"/>
 
 ---
